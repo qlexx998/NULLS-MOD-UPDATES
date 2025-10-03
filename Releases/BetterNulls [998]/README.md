@@ -1,6 +1,6 @@
-! JOKE MOD
+# ! JOKE MOD. NEW UPDATE V 3.0.31 
 
-// NEW UPDATE V 3.0.31 
+
 // File name is V3.0.31.NullsBrawlAssets
 
 // The mod only supports RU lang.
